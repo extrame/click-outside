@@ -1,10 +1,10 @@
 {
-  "name": "vue-click-outside",
-  "version": "1.1.0",
+  "name": "vue-click-outside-extrame",
+  "version": "1.1.1",
   "description": "ClickOutside directive for Vue",
   "main": "index.js",
   "repository": "vue-bulma/click-outside",
   "author": "Fangdun Cai <cfddream@gmail.com>",
-  "maintainers": "Luventa <luventa@outlook.com>",
+  "maintainers": "Luventa <luventa@outlook.com>, Extrame <extraf@live.cn>",
   "license": "MIT"
 }
